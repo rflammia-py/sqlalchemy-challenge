@@ -1,3 +1,4 @@
+
 # Surfs Up
 ![laura](https://user-images.githubusercontent.com/62668061/129294696-186b3705-b049-4655-a4a5-d3918dda7590.jpeg)
 
@@ -17,6 +18,20 @@ Starting off with the most recent date available, I retrieved precipitation data
 ### Station Analysis
 I then designed a query to find the most active weather stations filtering by temperature observation data
 ![tempvsfreq](https://user-images.githubusercontent.com/62668061/129277928-0695b5e2-1def-44fa-a462-b57976c128b7.png)
+
+
+
+### Bonus
+I plotted the average, minimum, and maximum temperatures during a range of dates that a trip might occur.
+
+
+![trip_avg_temp](https://user-images.githubusercontent.com/62668061/129295952-570f3244-f48f-4a7e-8441-f13e0de0093c.png)
+
+
+Lastly, I calculated the daily normals (averages of the minimum, average, and maximum temperatures) for the same trip date range.
+
+![daily_normals](https://user-images.githubusercontent.com/62668061/129295968-ee6067e4-c4a3-439b-9ecd-e328522bec05.png)
+
 
 
 
